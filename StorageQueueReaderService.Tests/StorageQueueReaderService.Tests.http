@@ -1,0 +1,6 @@
+@StorageQueueReaderService.Tests_HostAddress = http://localhost:5055
+
+GET {{StorageQueueReaderService.Tests_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
